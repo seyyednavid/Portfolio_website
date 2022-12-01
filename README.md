@@ -1,3 +1,3 @@
-# Portfolio_website
-Portfolio website with sass
+# Portfolio website with Sass
+
 
